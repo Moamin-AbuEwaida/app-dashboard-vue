@@ -333,7 +333,7 @@ export default {
   },
 };
 </script>
-<style scope>
+<style scoped>
 .topTitle {
   margin-top: 10px;
 }
