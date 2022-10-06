@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkapp_dashboard_vue"]=self["webpackChunkapp_dashboard_vue"]||[]).push([[443],{2031:function(a,n,u){u.r(n),u.d(n,{default:function(){return p}});var e=u(9269);const r={class:"about"},s=(0,e._)("h1",null,"This is an about page",-1),t=[s];function c(a,n){return(0,e.wg)(),(0,e.iD)("div",r,t)}var o=u(7617);const d={},i=(0,o.Z)(d,[["render",c]]);var p=i}}]);
-//# sourceMappingURL=about.0e1c451c.js.map
+//# sourceMappingURL=about.4f796c2c.js.map
